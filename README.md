@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">Hello there! 👨🏻‍💻 My name is Guilherme Silva. I’m a 19-year-old student of Systems Analysis and Development at Fatec Senac. I am also a Music Producer / Sound Designer! Thank you for stopping by. 😊<br><br>A passionate man about Advertising Content Creation and Front-End Development, who lives in Brazil 🇧🇷.<br><br>- 🔭 Currently I’m looking for a job, ready to work, specially from home.<br>- 📚 I’m currently learning HTML, JavaScript, Typescript, CSS, SQL and Website Development and Advertising Content Creation and more.<br>- 🎧 In my free time I engage in music production and sound design, which I also incorporate into my college projects.<br>- 📩 To reach me you can send a message through gmail up there.</p>
+<p align="left">Hello there! 👨🏻‍💻 My name is Guilherme Silva. I’m a 19-year-old student of Systems Analysis and Development at Fatec Senac. I am also a Music Producer / Sound Designer! Thank you for stopping by. 😊<br><br>A passionate man about Advertising Content Creation and Front-End Development, who lives in Brazil 🇧🇷.<br><br>- 🔭 Currently I’m looking for a job, ready to work, specially from home.<br>- 📚 I’m currently learning HTML, JavaScript, Typescript, CSS, SQL, Website Development, Advertising Content Creation and more.<br>- 🎧 In my free time I engage in music production and sound design, which I also incorporate into my college projects.<br>- 📩 To reach me you can send a message through gmail up there.</p>
 
 ###
 
