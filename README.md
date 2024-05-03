@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/sv_guiii/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://linktr.ee/DevNinjaGuilherme?utm_source=linktree_profile_share&ltsid=eedbbffc-d6e9-4c40-834c-9de93c8e7ba4" target="_blank">
+  <a href="https://linktr.ee/TechGui?utm_source=linktree_profile_share&ltsid=eedbbffc-d6e9-4c40-834c-9de93c8e7ba4" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
   </a>
   <a href="mailto:guilhermedrsilva7@gmail.com" target="_blank">
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hello there! 👨🏻‍💻 My name is Guilherme Silva. I'm a 20-year-old student of Systems Analysis and Development at Fatec Senac. I am also a Music Producer / Sound Designer! Thank you for stopping by. 😊<br><br>A passionate man about Advertising Content Creation and Front-End Development, who lives in Brazil 🇧🇷.<br><br>- 🔭 Currently I am looking for a job, ready to work, specially from home.<br>- 📚 I’m currently learning HTML, JavaScript, Typescript, CSS, SQL and Website Development and Advertising Content Creation and more.<br>- 🎧 In my free time I engage in music production and sound design, which I also incorporate into my college projects.<br>- 📩 To reach me you can send a message through gmail up there.</p>
+<p align="left">Hello there! 👨🏻‍💻 My name is Guilherme Silva. I'm a 20-year-old student of Systems Analysis and Development at Fatec Senac. I am also a Music Producer / Sound Designer! Thank you for stopping by. 😊<br><br>A passionate man about Advertising Content Creation and Front-End Development, who lives in Brazil 🇧🇷.<br><br>- 🔭 Currently I am looking for a job, ready to work, specially from home.<br>- 📚 I’m currently learning HTML, CSS, JavaScript, Python, Typescript,  React, SQL and Website Development and Advertising Content Creation and more.<br>- 🎧 In my free time I engage in music production and sound design, which I also incorporate into my college projects.<br>- 📩 To reach me you can send a message through gmail up there.</p>
 
 ###
 
@@ -80,9 +80,9 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevNinjaGuilherme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DevNinjaGuilherme&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevNinjaGuilherme&radius=16&theme=modern-lilac&area=true&order=5" height="260" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TechGui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=TechGui&locale=en&mode=daily&theme=rose_pine&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TechGui&radius=16&theme=modern-lilac&area=true&order=5" height="260" alt="activity-graph graph"  />
 </div>
 
 ###
